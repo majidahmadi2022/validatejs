@@ -21,5 +21,5 @@ const EmailValidate = (email) => {
 // todo : persian bank cards
 // todo : persian Sheba number
 // todo : persian DateValid
-
+// todo : persian Birthday validation
 
